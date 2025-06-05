@@ -1,0 +1,297 @@
+// ОБНОВЛЕН
+//
+// АВТОР:
+// https://github.com/devtheewlon
+//
+// СО-АВТОР:
+// <...>
+//
+// АВТОР-ПЕРЕСЛИВА:
+// <...>
+
+
+// Баннер "КОМАНДА ФОРУМА"
+.userBanner.userBanner--staff {
+    background: url(https://i.postimg.cc/Hs5nrjDB/komfa.png) no-repeat;
+    height: 45px;
+    width: 130px;
+    text-indent: -10000em;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain
+}
+
+
+// Баннер "ЗАБЛОКИРОВАН"
+.img_banuser {
+background: url(https://i.postimg.cc/W3k8ZtkG/Block.png) no-repeat;
+height: 45px;
+width: 130px;
+text-indent: -10000em;
+-webkit-background-size: contain;
+-moz-background-size: contain;
+-o-background-size: contain;
+background-size: contain
+}
+
+
+// Баннер "КОМАНДА МАТРЕШКИ"
+.img_team_matrp {
+    background: url(https://edge-cdn-forummatrpru.matrp.ru/data/icons/team_matrp.png) no-repeat;
+    height: 45px;
+    width: 130px;
+    text-indent: -10000em;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain
+}
+
+
+// Баннер "ВЛАДЕЛЕЦ"
+.img_vl {
+    background: url(https://i.postimg.cc/hj64jR2k/vl.png) no-repeat;
+    height: 45px;
+    width: 130px;
+    text-indent: -10000em;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain
+}
+
+// Баннер "ЗАМ ВЛАДЕЛЕЦ"
+.img_zamvl {
+    background: url(https://i.postimg.cc/k5NrGFq2/2025040114221572.png) no-repeat;
+    height: 45px;
+    width: 130px;
+    text-indent: -10000em;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain
+}
+
+// Баннер "РАЗРАБОТЧИК"
+.img_dev {
+    background: url(https://edge-cdn-forummatrpru.matrp.ru/data/icons/img_dev.png) no-repeat;
+    height: 45px;
+    width: 130px;
+    text-indent: -10000em;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain
+}
+
+// Баннер "ОСНОВАТЕЛЬ"
+.img_osnov {
+    background: url(https://edge-cdn-forummatrpru.matrp.ru/data/icons/img_osnov.png) no-repeat;
+    height: 45px;
+    width: 130px;
+    text-indent: -10000em;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain
+}
+
+// Баннер "СПЕЦ. АДМИНИСТРАТОР"
+.img_specadmin {
+    background: url(https://edge-cdn-forummatrpru.matrp.ru/data/icons/img_specadmin.png) no-repeat;
+    height: 45px;
+    width: 130px;
+    text-indent: -10000em;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain
+}
+
+// Баннер "ГЛАВА ТЕСТЕРОВ"
+.img_gltest {
+    background: url(https://i.postimg.cc/Dfb5nfgN/2025040115254190.png) no-repeat;
+    height: 45px;
+    width: 130px;
+    text-indent: -10000em;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain
+}
+
+// Баннер "РУКОВОДИТЕЛЬ ТЕХ. ПОДДЕРЖКИ"
+.img_glteh {
+    background: url(https://edge-cdn-forummatrpru.matrp.ru/data/icons/img_glteh.png) no-repeat;
+    height: 45px;
+    width: 130px;
+    text-indent: -10000em;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain
+}
+
+// Баннер "СПЕЦ. ПО МЕРОПРИЯТИЯМ"
+.img_specmp {
+    background: url(https://edge-cdn-forummatrpru.matrp.ru/data/icons/img_specmp.png) no-repeat;
+    height: 45px;
+    width: 130px;
+    text-indent: -10000em;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain
+}
+
+// Баннер "ТЕХ. АДМИНИСТРАТОР"
+.img_tehadm {
+    background: url(https://i.postimg.cc/ZqxtfF9r/2025040115312565.png) no-repeat;
+    height: 45px;
+    width: 130px;
+    text-indent: -10000em;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain
+}
+
+// Баннер "СТ. АДМИНИСТРАТОР"
+.img_stadm {
+    background: url(blob:https://forum.matrp.ru/ff8fcd44-2c8e-410b-b0ad-697d9b450115) no-repeat;
+    height: 45px;
+    width: 130px;
+    text-indent: -10000em;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain
+}
+
+// Баннер бонусный "Hack was success" (Бонусная роль)
+.bonus_hacking {
+    background: url(https://i.imgur.com/mqBaawV.gif) no-repeat;
+    height: 45px;
+    width: 130px;
+    text-indent: -10000em;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+}
+
+// Баннер "АДМИНИСТРАТОР"
+.img_adm {
+    background: url(blob:https://forum.matrp.ru/6f3237d3-b7b0-411c-9bba-80c916105221) no-repeat;
+    height: 45px;
+    width: 130px;
+    text-indent: -10000em;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain
+}
+
+// Баннер "МОДЕРАТОР"
+.img_moder {
+    background: url(https://edge-cdn-forummatrpru.matrp.ru/data/icons/img_moder.png) no-repeat;
+    height: 45px;
+    width: 130px;
+    text-indent: -10000em;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain
+}
+
+// Баннер "ГЛ. СЛЕДЯЩИЙ"
+.img_glsled {
+    background: url(https://edge-cdn-forummatrpru.matrp.ru/data/icons/img_glsled.png) no-repeat;
+    height: 45px;
+    width: 130px;
+    text-indent: -10000em;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain
+}
+
+// Баннер "ЗАМ. ГЛ. СЛЕДЯЩЕГО"
+.img_zamglsled {
+    background: url(https://edge-cdn-forummatrpru.matrp.ru/data/icons/img_zamglsled.png) no-repeat;
+    height: 45px;
+    width: 130px;
+    text-indent: -10000em;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain
+}
+
+// Баннер "ЗАМЕСТИТЕЛЬ ГЛАВНОГО АДМИНИСТРАТОРА"
+.img_zamga {
+    background: url(https://edge-cdn-forummatrpru.matrp.ru/data/icons/img_zamga.png) no-repeat;
+    height: 45px;
+    width: 130px;
+    text-indent: -10000em;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain
+}
+
+// Баннер "ГЛАВНЫЙ АДМИНИСТРАТОР"
+.img_ga {
+    background: url(https://edge-cdn-forummatrpru.matrp.ru/data/icons/img_ga.png) no-repeat;
+    height: 45px;
+    width: 130px;
+    text-indent: -10000em;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain
+}
+
+// Баннер "ПОЛЬЗОВАТЕЛЬ"
+.img_user {
+    background: url(https://edge-cdn-forummatrpru.matrp.ru/data/icons/img_user.png) no-repeat;
+    height: 45px;
+    width: 130px;
+    text-indent: -10000em;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain
+}
+
+// Баннер "ТЕСТЕР"
+.tester {
+    background: url(https://i.postimg.cc/44HN0nds/tester.png) no-repeat;
+    height: 45px;
+    width: 130px;
+    text-indent: -10000em;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain
+}
+
+// Баннер "ЛИДЕР"
+.img_leader {
+    background: url(https://edge-cdn-forummatrpru.matrp.ru/data/icons/img_leader.png) no-repeat;
+    height: 45px;
+    width: 130px;
+    text-indent: -10000em;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain
+}
+
+
+
+
+
+
+
